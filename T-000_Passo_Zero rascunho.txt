@@ -1,0 +1,22 @@
+# T-000 – Passo Zero: Preparação do ambiente e Kanban físico (.md)
+
+## Objetivo
+Preparar a fundação do projeto Organizador v2, garantindo estrutura de pastas, controle de versão e registro do Kanban físico em Markdown.
+
+## Escopo
+- Criar pasta Organizador_v2
+- Criar estrutura de diretórios base
+- Inicializar repositório Git local
+- Configurar repositório remoto no GitHub
+- Criar arquivo docs/kanban.md
+- Criar subpastas docs/components/ e docs/kanban/
+
+## Dependências
+- Git instalado
+- Conta GitHub ativa
+- PHP instalado (servidor embutido) durante desenvolvimento
+
+## Resultados Esperados
+- Estrutura inicial pronta
+- Kanban físico registrado em Markdown
+- Repositório Git configurado local e remoto
