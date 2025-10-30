@@ -118,3 +118,5 @@ git push -u origin dev
 > **Observação de Sincronização:**  
 > Sempre que uma alteração for feita no Kanban digital (mudança de coluna, checklist ou descrição), lembre-se de atualizar o arquivo `.md` correspondente para manter a documentação oficial sincronizada.
 
+### Histórico de Atualizações
+- [x] 2025-10-29 — Criados arquivos `template_cartao.md` e `guia_kanban.md` (ver T-001)
